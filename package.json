@@ -1,0 +1,15 @@
+{
+  "name": "rsspipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "italoasouza",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.18.8",
+    "nodemon": "^1.18.11",
+    "rss-parser": "^3.7.0"
+  }
+}
